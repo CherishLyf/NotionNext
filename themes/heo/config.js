@@ -17,8 +17,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '记录生活',
   HEO_HERO_TITLE_2: '工作与思考',
   HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '推荐',
-  HEO_HERO_TITLE_5: '标题',
+  HEO_HERO_TITLE_4: '随便看看',
+  HEO_HERO_TITLE_5: '欢迎来到我的BLOG👻',
   HEO_HERO_TITLE_LINK: 'https://www.xiaqiunong.cn',
 
   // 英雄区显示三个置顶分类
